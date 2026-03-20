@@ -90,6 +90,6 @@ designed to simulate realistic B2B SaaS behavior including:
 
 - Relational database design (3 normalized tables)
 - Data cleaning and NULL handling in SQL
-- Funnel analysis using CTEs and window functions (LAG, ROW_NUMBER)
+- Funnel analysis using CTEs and window functions
 - DAX measures in Power BI
 - Product thinking — insights tied to business recommendations
