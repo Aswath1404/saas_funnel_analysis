@@ -69,9 +69,9 @@ designed to simulate realistic B2B SaaS behavior including:
 
 3-page Power BI dashboard covering Acquisition, Funnel, and Revenue.
 
-![Acquisition Overview](dashboard/page1_acquisition.png)
-![Funnel Analysis](dashboard/page2_funnel.png)
-![Revenue & Conversion](dashboard/page3_revenue.png)
+![Acquisition Overview](https://raw.githubusercontent.com/Aswath1404/saas_funnel_analysis/main/dashboard/pg1_Acquisition.png)
+![Funnel Analysis](https://raw.githubusercontent.com/Aswath1404/saas_funnel_analysis/main/dashboard/pg2_Funnel.png)
+![Revenue & Conversion](https://raw.githubusercontent.com/Aswath1404/saas_funnel_analysis/main/dashboard/pg3_Revenue.png)
 
 ---
 
